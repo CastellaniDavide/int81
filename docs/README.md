@@ -8,9 +8,14 @@ If you want to change the position of your ISR in the vector's table: change the
 
 --- 
 ## Changelog 
+- [02.01_2020-02-18](#0201_2020-02-18)
 - [01.01_2020-02-11](#0101_2020-02-11)
 
 ---
+### 02.01_2020-02-18
+- #### Added
+  - after creating and using the INT 81h, restores the vector's table
+  
 ### 01.01_2020-02-11
 - first version
 
